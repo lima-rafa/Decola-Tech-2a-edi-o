@@ -1,0 +1,5 @@
+C:\Users\rafael.lima\vs-workspace\avnd\DecolaTech2aedi\obj\Debug\net6.0\DecolaTech2aedi.csproj.AssemblyReference.cache
+C:\Users\rafael.lima\vs-workspace\avnd\DecolaTech2aedi\obj\Debug\net6.0\DecolaTech2aedi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.lima\vs-workspace\avnd\DecolaTech2aedi\obj\Debug\net6.0\DecolaTech2aedi.AssemblyInfoInputs.cache
+C:\Users\rafael.lima\vs-workspace\avnd\DecolaTech2aedi\obj\Debug\net6.0\DecolaTech2aedi.AssemblyInfo.cs
+C:\Users\rafael.lima\vs-workspace\avnd\DecolaTech2aedi\obj\Debug\net6.0\DecolaTech2aedi.csproj.CoreCompileInputs.cache
